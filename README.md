@@ -1,1 +1,2 @@
-# FitnessSystem
+Fitness Tracker App
+The Fitness Tracker App is a mobile application designed to help users monitor their exercise activities and achieve their fitness goals. With features like exercise logging, user registration, and location tracking, users can easily record their workouts, track progress, and stay motivated on their fitness journey. Built using Java and SQLite, the app provides a simple and intuitive interface for seamless user experience. Whether you're a beginner or a fitness enthusiast, the Fitness Tracker App is your companion to a healthier lifestyle.
